@@ -1,4 +1,8 @@
 <?php
 
-echo 'テストだよ！！';
+echo 'テストだよ!!!!!';
+echo 'Hello Geekz World';
+echo 'Hello Geekz World';
+echo 'Hello Geekz World';
+echo 'Hello Geekz World';
 echo 'Hello Geekz World';
